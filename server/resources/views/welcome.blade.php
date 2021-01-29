@@ -44,7 +44,10 @@
                         </g>
                     </svg>
                 </div>
-                <v-hello></v-hello>
+                <v-random-chart chart-id-prop="chart1" chart-type-prop="line"></v-random-chart>
+                <v-random-chart chart-id-prop="chart2" chart-type-prop="bar"></v-random-chart>
+                <v-random-line-chart chart-id-prop="chart3" ></v-random-line-chart>
+                <v-random-bar-chart chart-id-prop="chart4" ></v-random-bar-chart>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">

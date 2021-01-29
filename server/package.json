@@ -17,5 +17,10 @@
         "postcss": "^8.1.14",
         "vue": "^3.0.5",
         "vue-loader": "^16.1.2"
+    },
+    "dependencies": {
+        "chart.js": "^2.9.4",
+        "chartjs-plugin-datalabels": "^0.7.0",
+        "vue-chartjs": "^3.5.1"
     }
 }

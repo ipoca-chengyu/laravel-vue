@@ -1,6 +1,5 @@
 <template>
-  <div id='greetingBox'>{{ greeting }}、みなさん！</div>
-  <!-- <div>hello</div> -->
+  <div id='greetingBox'>{{ greeting }}、みなさん!</div>
 </template>
 <script>
 export default {
